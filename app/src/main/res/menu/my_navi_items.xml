@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/DataBase"
+        android:icon="@mipmap/ic_save_black_24dp"
+        android:title="DataBase"
+        android:onClick="database"
+        />
+    <item android:id="@+id/SharedPref"
+        android:icon="@mipmap/ic_save_black_24dp"
+        android:title="Shared Prefe"
+        android:onClick="sharedpref"
+        />
+
+</menu>
